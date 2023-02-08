@@ -16,7 +16,7 @@ See [Crime Map Visualization](https://atu-machine-learning.github.io/map-visuali
 <details>
 <summary>Additional Resources</summary>
 <br>
-<img src="https://imgur.com/Ty44whv" />
+ <img src="https://i.imgur.com/Ty44whv.png" />
 </details>
 
 # Defining The Question
