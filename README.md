@@ -1,5 +1,6 @@
 # Little Rock Crime Analysis
 Funded by the Arkansas Tech University Research Grant.
+
 See [Crime Map Visualization](https://atu-machine-learning.github.io/map-visualization/) for an interactive map.
 
 <!-- TOC -->
@@ -10,9 +11,6 @@ See [Crime Map Visualization](https://atu-machine-learning.github.io/map-visuali
   * [The Problem Statement](#the-problem-statement)
 * [Collecting The Data](#collecting-the-data)
   * [Brainstorming](#future-brainstorming)
-* [Cleaning The Data](#cleaning-the-data)
-* [Analyzing The Data](#analyzing-the-data)
-* [Concluding The Analysis](#concluding-the-analysis)
 <!-- TOC -->
 
 # Defining The Question
