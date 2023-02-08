@@ -13,6 +13,12 @@ See [Crime Map Visualization](https://atu-machine-learning.github.io/map-visuali
   * [Brainstorming](#future-brainstorming)
 <!-- TOC -->
 
+<details>
+<summary>Additional Resources</summary>
+<br>
+<img src="https://imgur.com/Ty44whv" />
+</details>
+
 # Defining The Question
 
 ## Background
