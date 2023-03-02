@@ -1,0 +1,1 @@
+{'ar_reg': 76.10000000000001, 'd_hidden': 25.9532830307902, 'learning_rate': 6.6000000000000005, 'num_hidden_layers': 23.746385756665155, 'seasonality_reg': 6.9, 'trend_reg': 6.5}
