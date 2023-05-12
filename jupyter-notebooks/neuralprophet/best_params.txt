@@ -1,0 +1,1 @@
+Best hyperparameters: {'n_changepoints': 14, 'changepoints_range': 0.9116230261091516, 'trend_reg': 0.0014209946662592436, 'num_hidden_layers': 2, 'd_hidden': 480, 'learning_rate': 0.008254072786634332, 'epochs': 84, 'batch_size': 314}
