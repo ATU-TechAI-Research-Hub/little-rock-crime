@@ -1,0 +1,7 @@
+best_params = {'changepoint_prior_scale': 0.1,
+ 'seasonality_prior_scale': 0.01,
+ 'holidays_prior_scale': 0.1,
+ 'seasonality_mode': 'multiplicative',
+ 'daily_seasonality': False,
+ 'weekly_seasonality': True,
+ 'yearly_seasonality': True}
