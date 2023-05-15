@@ -1,0 +1,6 @@
+ar_reg=15.9
+d_hidden=2.043179564006717
+learning_rate=4.800000000000001
+num_hidden_layers=9.869792383069202
+seasonality_reg=32.6
+trend_reg=5.9
